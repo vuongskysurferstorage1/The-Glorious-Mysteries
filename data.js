@@ -97,8 +97,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.8073577338111999,
-          "pitch": -0.5330798940881074,
+          "yaw": 0.7630914044259427,
+          "pitch": -0.5475008092867597,
           "title": "Jesus Taken Up Into Heaven",
           "text": "In my former book, Theophilus, I wrote about all that Jesus began to do and to teach until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”<div><br></div><div>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</div><div><br></div><div>He said to them: “It is not for you to know the times or dates the Father has set by his own authority. But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</div><div><br></div><div>After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.</div><div><br></div><div>They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.” (Acts 1:10-11)</div>"
         }
@@ -138,8 +138,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.07797276115379503,
-          "pitch": -0.07289250627504629,
+          "yaw": -0.0780254914207319,
+          "pitch": -0.11413870515393221,
           "rotation": 0,
           "target": "3-4-the-assumption-of-mary"
         },
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.2749162830822307,
-          "pitch": -0.539810738501,
+          "yaw": 0.22230165730265483,
+          "pitch": -0.537862419446407,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>&nbsp;“My soul glorifies the Lord</div><div>and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me—holy is his name.&nbsp;</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.&nbsp;</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.&nbsp;</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.&nbsp;</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful to Abraham and his descendants forever, just as he promised our ancestors.”&nbsp;</div><div>(Luke 1:46-55)</div>"
         }
