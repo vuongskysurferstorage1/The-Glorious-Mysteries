@@ -28,9 +28,9 @@ var APP_DATA = {
       ],
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "pitch": 0,
+        "fov": 1.38217411905719
       },
       "linkHotspots": [
         {
@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.1610341073880459,
-          "pitch": -0.6774097324537589,
+          "yaw": 0.16585034964478318,
+          "pitch": -0.6769543709319272,
           "title": "Jesus Has Risen",
           "text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.<div><br></div><div>There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. His appearance was like lightning, and his clothes were white as snow. The guards were so afraid of him that they shook and became like dead men.</div><div><br></div><div>The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said. Come and see the place where he lay. Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.”</div><div><br></div><div>So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”</div><div>(Matthew 28:1–10)</div>"
         }
@@ -97,8 +97,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.7947439866557815,
-          "pitch": -0.5539817488071215,
+          "yaw": 0.7895145517083968,
+          "pitch": -0.5538893006520684,
           "title": "Jesus Taken Up Into Heaven",
           "text": "In my former book, Theophilus, I wrote about all that Jesus began to do and to teach until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”<div><br></div><div>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</div><div><br></div><div>He said to them: “It is not for you to know the times or dates the Father has set by his own authority. But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</div><div><br></div><div>After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.</div><div><br></div><div>They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”</div><div>(Acts 1:10-11)</div>"
         }
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.2468653725126444,
-          "pitch": -0.5050478219615968,
+          "yaw": 0.22587837226708274,
+          "pitch": -0.5022169282271385,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
@@ -248,16 +248,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.739844469837643,
-          "pitch": 0.07281280447775274,
+          "yaw": 2.738089164387202,
+          "pitch": 0.06701367548983228,
           "rotation": 0,
           "target": "3-4-the-assumption-of-mary"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6338543204132492,
-          "pitch": -0.2098446705492556,
+          "yaw": 0.6339790693226348,
+          "pitch": -0.20955860889769795,
           "title": "The Woman and the Dragon",
           "text": "A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who “will rule all the nations with an iron scepter.” And her child was snatched up to God and to his throne. The woman fled into the wilderness to a place prepared for her by God, where she might be taken care of for 1,260 days.<div><br></div><div>Then war broke out in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back. But he was not strong enough, and they lost their place in heaven. The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him.</div><div><br></div><div>Then I heard a loud voice in heaven say:</div><div><br></div><div>“Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down.</div><div><br></div><div>They triumphed over him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death.</div><div><br></div><div>Therefore rejoice, you heavens and you who dwell in them! But woe to the earth and the sea, because the devil has gone down to you! He is filled with fury, because he knows that his time is short.”</div><div><br></div><div>When the dragon saw that he had been hurled to the earth, he pursued the woman who had given birth to the male child. The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the wilderness, where she would be taken care of for a time, times and half a time, out of the serpent’s reach. Then from his mouth the serpent spewed water like a river, to overtake the woman and sweep her away with the torrent. But the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth. Then the dragon was enraged at the woman and went off to wage war against the rest of her offspring—those who keep God’s commands and hold fast their testimony about Jesus.</div><div>(Revelation 12:1-17)</div>"
         }
