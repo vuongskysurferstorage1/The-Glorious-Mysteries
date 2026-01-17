@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.23537779583562113,
-          "pitch": -0.5213726264264587,
+          "yaw": 0.23747653652938183,
+          "pitch": -0.5211542635649895,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
