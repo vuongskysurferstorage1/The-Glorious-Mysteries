@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.11694193517134188,
-          "pitch": -0.37113747423152077,
+          "yaw": -0.11475101286942113,
+          "pitch": -0.3712236227691825,
           "title": "The Holy Spirit Comes at Pentecost",
           "text": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.<div>(Acts 2:1-4)</div>"
         }
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.251036875624461,
-          "pitch": -0.5045988843967937,
+          "yaw": 0.2468653725126444,
+          "pitch": -0.5050478219615968,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.629515282611635,
-          "pitch": -0.18807405898044394,
+          "yaw": 0.6338543204132492,
+          "pitch": -0.2098446705492556,
           "title": "The Woman and the Dragon",
           "text": "A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who “will rule all the nations with an iron scepter.” And her child was snatched up to God and to his throne. The woman fled into the wilderness to a place prepared for her by God, where she might be taken care of for 1,260 days.<div><br></div><div>Then war broke out in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back. But he was not strong enough, and they lost their place in heaven. The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him.</div><div><br></div><div>Then I heard a loud voice in heaven say:</div><div><br></div><div>“Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down.</div><div><br></div><div>They triumphed over him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death.</div><div><br></div><div>Therefore rejoice, you heavens and you who dwell in them! But woe to the earth and the sea, because the devil has gone down to you! He is filled with fury, because he knows that his time is short.”</div><div><br></div><div>When the dragon saw that he had been hurled to the earth, he pursued the woman who had given birth to the male child. The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the wilderness, where she would be taken care of for a time, times and half a time, out of the serpent’s reach. Then from his mouth the serpent spewed water like a river, to overtake the woman and sweep her away with the torrent. But the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth. Then the dragon was enraged at the woman and went off to wage war against the rest of her offspring—those who keep God’s commands and hold fast their testimony about Jesus.</div><div>(Revelation 12:1-17)</div>"
         }
