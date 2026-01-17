@@ -100,7 +100,7 @@ var APP_DATA = {
           "yaw": 0.7727352055753034,
           "pitch": -0.5542164753176255,
           "title": "Jesus Taken Up Into Heaven",
-          "text": "In my former book, Theophilus, I wrote about all that Jesus began to do and to teach until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”<div><br></div><div>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</div><div><br></div><div>He said to them: “It is not for you to know the times or dates the Father has set by his own authority. But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</div><div><br></div><div>After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.</div><div><br></div><div>They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”</div><div>(Acts 1:10-11)</div>"
+          "text": "In my former book, Theophilus, I wrote about all that Jesus began to do and to teach until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”<div><br></div><div>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</div><div><br></div><div>He said to them: “It is not for you to know the times or dates the Father has set by his own authority. But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</div><div><br></div><div>After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.</div><div><br></div><div>They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”</div><div>(Acts 1:1-11)</div>"
         }
       ]
     },
@@ -193,22 +193,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.2843285278527965,
-          "pitch": -0.3595512695187928,
+          "yaw": 0.2842342382197387,
+          "pitch": -0.3586255493751622,
           "rotation": 0,
           "target": "4-5-the-coronation-of-the-blessed-virgin-mary"
         },
         {
-          "yaw": 2.356667051593293,
-          "pitch": 0.15522389349734134,
+          "yaw": 2.3765929029791506,
+          "pitch": 0.17900160988965652,
           "rotation": 0,
           "target": "2-3-the-descent-of-the-holy-spirit"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.24044966431769588,
-          "pitch": -0.5203543278938749,
+          "yaw": 0.23537779583562113,
+          "pitch": -0.5213726264264587,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
