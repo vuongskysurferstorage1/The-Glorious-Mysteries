@@ -34,16 +34,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.20526059361694138,
-          "pitch": -0.4254049034544476,
+          "yaw": 0.20100020242434624,
+          "pitch": -0.4221194431296542,
           "rotation": 0,
           "target": "1-2-the-ascension-of-jesus"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.16175751731703514,
-          "pitch": -0.6659869523500497,
+          "yaw": 0.1552618614859469,
+          "pitch": -0.6705444264526008,
           "title": "Jesus Has Risen",
           "text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.&nbsp;<div><br></div><div>There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. His appearance was like lightning, and his clothes were white as snow. The guards were so afraid of him that they shook and became like dead men.&nbsp;</div><div><br></div><div>The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said. Come and see the place where he lay. Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.”&nbsp;</div><div><br></div><div>So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”</div><div>(Matthew 28:1–10)</div>"
         }
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.1083827554116823,
-          "pitch": -0.3877234684823776,
+          "yaw": -0.1017943437018225,
+          "pitch": -0.39551492590362436,
           "title": "The Holy Spirit Comes at Pentecost",
           "text": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.&nbsp;<div>(Acts 2:1-4)</div>"
         }
@@ -193,8 +193,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.2849496364748241,
-          "pitch": -0.3516623421244063,
+          "yaw": 0.28290339959050925,
+          "pitch": -0.3424279478755068,
           "rotation": 0,
           "target": "4-5-the-coronation-of-the-blessed-virgin-mary"
         },
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.25187005627218007,
-          "pitch": -0.511210595673278,
+          "yaw": 0.22038748921284856,
+          "pitch": -0.5360434880535134,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.&nbsp;</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6275020489892142,
-          "pitch": -0.20908581151292438,
+          "yaw": 0.6201880824510777,
+          "pitch": -0.21015721195958648,
           "title": "The Woman and the Dragon",
           "text": "A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who “will rule all the nations with an iron scepter.” And her child was snatched up to God and to his throne. The woman fled into the wilderness to a place prepared for her by God, where she might be taken care of for 1,260 days.<div><br></div><div>Then war broke out in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back. But he was not strong enough, and they lost their place in heaven. The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him.</div><div><br></div><div>Then I heard a loud voice in heaven say:</div><div><br></div><div>“Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down.</div><div><br></div><div>They triumphed over him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death.</div><div><br></div><div>Therefore rejoice, you heavens and you who dwell in them! But woe to the earth and the sea, because the devil has gone down to you! He is filled with fury, because he knows that his time is short.”</div><div><br></div><div>When the dragon saw that he had been hurled to the earth, he pursued the woman who had given birth to the male child. The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the wilderness, where she would be taken care of for a time, times and half a time, out of the serpent’s reach. Then from his mouth the serpent spewed water like a river, to overtake the woman and sweep her away with the torrent. But the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth. Then the dragon was enraged at the woman and went off to wage war against the rest of her offspring—those who keep God’s commands and hold fast their testimony about Jesus.</div><div>(Revelation 12:1-17)</div>"
         }
