@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.16608058309876483,
-          "pitch": -0.6737165337441873,
+          "yaw": 0.16823973861483843,
+          "pitch": -0.6735388679733862,
           "title": "Jesus Has Risen",
           "text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.&nbsp;<div><br></div><div>There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. His appearance was like lightning, and his clothes were white as snow. The guards were so afraid of him that they shook and became like dead men.&nbsp;</div><div><br></div><div>The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said. Come and see the place where he lay. Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.”&nbsp;</div><div><br></div><div>So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”</div><div>(Matthew 28:1–10)</div>"
         }
@@ -138,8 +138,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.07506402957144687,
-          "pitch": -0.1053713209344167,
+          "yaw": -0.07506403698012498,
+          "pitch": -0.09882159916689659,
           "rotation": 0,
           "target": "3-4-the-assumption-of-mary"
         },
