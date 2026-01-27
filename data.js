@@ -34,16 +34,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.215878207230773,
-          "pitch": -0.4281485896978463,
+          "yaw": 0.20526059361694138,
+          "pitch": -0.4254049034544476,
           "rotation": 0,
           "target": "1-2-the-ascension-of-jesus"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.18589311102412331,
-          "pitch": -0.6647030877859166,
+          "yaw": 0.16175751731703514,
+          "pitch": -0.6659869523500497,
           "title": "Jesus Has Risen",
           "text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.&nbsp;<div><br></div><div>There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. His appearance was like lightning, and his clothes were white as snow. The guards were so afraid of him that they shook and became like dead men.&nbsp;</div><div><br></div><div>The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said. Come and see the place where he lay. Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.”&nbsp;</div><div><br></div><div>So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”</div><div>(Matthew 28:1–10)</div>"
         }
@@ -83,8 +83,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8295188156471003,
-          "pitch": -0.18484935967284954,
+          "yaw": 0.8295190152248875,
+          "pitch": -0.16886677939099215,
           "rotation": 0,
           "target": "2-3-the-descent-of-the-holy-spirit"
         },
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.12153004316642857,
-          "pitch": -0.3623796142860751,
+          "yaw": -0.1083827554116823,
+          "pitch": -0.3877234684823776,
           "title": "The Holy Spirit Comes at Pentecost",
           "text": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.&nbsp;<div>(Acts 2:1-4)</div>"
         }
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.26432520547685456,
-          "pitch": -0.5098089616389121,
+          "yaw": 0.25187005627218007,
+          "pitch": -0.511210595673278,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.&nbsp;</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
