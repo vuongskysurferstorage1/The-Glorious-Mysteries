@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.1083820264348141,
-          "pitch": -0.3532011174418681,
+          "yaw": -0.10618691707555072,
+          "pitch": -0.353277824917658,
           "title": "The Holy Spirit Comes at Pentecost",
           "text": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.&nbsp;<div>(Acts 2:1-4)</div>"
         }
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.22460797437548585,
-          "pitch": -0.5024719931762824,
+          "yaw": 0.2267173849718418,
+          "pitch": -0.502267641340568,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.&nbsp;</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
