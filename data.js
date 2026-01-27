@@ -138,8 +138,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.07506403698012498,
-          "pitch": -0.09882159916689659,
+          "yaw": -0.07506402957144687,
+          "pitch": -0.10977309799296009,
           "rotation": 0,
           "target": "3-4-the-assumption-of-mary"
         },
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.2435219994226685,
-          "pitch": -0.5336470198920331,
+          "yaw": 0.2414294338391887,
+          "pitch": -0.5338737219185532,
           "title": "Mary’s Song",
           "text": "And Mary said:<div><br></div><div>“My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant.&nbsp;</div><div><br></div><div>From now on all generations will call me blessed, for the Mighty One has done great things for me— holy is his name.</div><div><br></div><div>His mercy extends to those who fear him, from generation to generation.</div><div><br></div><div>He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.</div><div><br></div><div>He has brought down rulers from their thrones but has lifted up the humble.</div><div><br></div><div>He has filled the hungry with good things but has sent the rich away empty.</div><div><br></div><div>He has helped his servant Israel, remembering to be merciful&nbsp;to Abraham and his descendants forever, just as he promised our ancestors.”</div><div>(Luke 1:46-55)</div>"
         }
